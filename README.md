@@ -1,4 +1,4 @@
 # PassGenerator
-Password Generator on python 
+Password Generator on Python 
 
 Usage: Launch .exe file or .py
